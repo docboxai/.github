@@ -2,8 +2,8 @@
   <img src="docbox-banner.png" alt="DocBox: read text from images and PDFs, on your own computer." width="100%">
 </p>
 
-We build **[DocBox](https://github.com/docboxai/docbox-app)**, a desktop app for Windows and
-Linux that reads text from images and PDFs on your own computer. Pick an OCR model and
+We build **[DocBox](https://github.com/docboxai/docbox-app)**, a desktop app for Windows,
+macOS and Linux that reads text from images and PDFs on your own computer. Pick an OCR model and
 DocBox sets everything up for you: no account, no cloud.
 
 - **Local by default.** Your documents stay on your computer unless you switch on the
